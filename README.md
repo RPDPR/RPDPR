@@ -1,1 +1,1 @@
-<img src="https://demolab.com" alt="GitHub Streak" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPDPR)](https://github.com/anuraghazra/github-readme-stats)
