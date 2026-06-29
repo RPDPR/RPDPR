@@ -19,4 +19,9 @@ I love exploring new tools and implementing efficient, scalable solutions.
 ### 📊 My GitHub Analytics
 ![RPD's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RPDPR&show_icons=true&theme=tokyonight)
 
-</div>                             
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=footer"
+/>
+
+</div>                        
