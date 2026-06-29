@@ -1,2 +1,1 @@
-[![GitHub Streak](https://demolab.com)](https://git.io)
-
+<img src="https://demolab.com" alt="GitHub Streak" />
