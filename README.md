@@ -1,1 +1,1 @@
-![RPD's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpdpr&show_icons=true&theme=radical)
+![RPD's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPDPR&show_icons=true&theme=radical)
