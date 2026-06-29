@@ -16,7 +16,7 @@ I love exploring new tools and implementing efficient, scalable solutions.
 
 ---
 
-### 📊 My GitHub Analytics
+### 📊 My GitHub Stats
 
 <br>
 
