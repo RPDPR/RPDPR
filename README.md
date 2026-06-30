@@ -27,4 +27,4 @@ I love exploring new tools and implementing efficient, scalable solutions.
   src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=footer"
 />
 
-</div>                        
+</div>
